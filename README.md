@@ -7,6 +7,7 @@ This repo is Introduce for me
 - index.html
 - .gitignore
 - style.css
+- LICENSE
 
 ### index.html
 
@@ -16,3 +17,9 @@ introduce myself
 
 this file is ignore list
 made by gitignore.io
+
+### style.css
+
+
+### LICENSE
+
